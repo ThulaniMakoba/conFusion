@@ -1,5 +1,4 @@
 /* You can add global styles to this file, and also import other style files */
-<<<<<<< HEAD
 @import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
 
 body{
@@ -7,5 +6,8 @@ body{
     margin: 0;
     font-family: Roboto, sans-serif;
 }
-=======
->>>>>>> bd62b35faee6c72a38a978e581360244e13a9d70
+
+.container{
+    margin: 20px;
+    display: flex;
+}
